@@ -11,7 +11,7 @@ PRODUCT_COPY_FILES += \
 
 # Lineage Platform Library
 PRODUCT_PACKAGES += \
-    org.lineageos.platform-res \
+    org.etucqzs.platform-res \
     org.lineageos.platform \
     org.lineageos.platform.xml
 
